@@ -1,6 +1,7 @@
 # GTranslator
 An online translator that is lightweight and powerful. This translator is only for English to Persian translation.
 ![image from GTranslator user interface](https://github.com/PAIREN1383/GTranslator/blob/main/GTranslator_img.png)
+![image from GTranslator user interface](https://github.com/PAIREN1383/GTranslator/blob/main/GTranslator_img2.png)
 
 Attributes:
  1.  Ability to translate words with Persian and English synonyms and define that word in English.

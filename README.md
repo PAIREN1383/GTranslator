@@ -8,4 +8,6 @@ Attributes:
  3.  Fast translation with Ctrl+C hotkey.
  4.  Audio pronunciation of words and text online and offline.
  5.  Very low volume of the program, both in the form of Python and exe files.  The exe file is about 13.1 MB in size.
- Note: The program requires internet.
+
+
+Note: The program requires internet.

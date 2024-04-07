@@ -1,1 +1,1 @@
-pip install gTTS pyttsx3 playsound==1.2.2
+pip install keyboard gTTS pyttsx3 playsound==1.2.2

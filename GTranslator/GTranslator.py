@@ -25,7 +25,9 @@ def help_box():
     messagebox.showinfo("GTranslator", "You can use the translator in two ways:\n \
                         \n[1] Select the word or sentence and press 'Ctrl+C'. \
                         \n[2] Enter the word or sentence in the entry and press 'Enter' or click the Translate button. \
-                        \n\n\nPublisher: MohammadAli \nGitHub: https://github.com/pairen1383/")
+                        \n\n\nPublisher: MohammadAli \
+                        \nGitHub: https://github.com/pairen1383/ \
+                        \nVersion: 1.1")
 
 
 def show_searchbar():

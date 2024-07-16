@@ -145,7 +145,7 @@ def play_voice():
         messagebox.showerror("GTranslator", "Error: \nEnter a sentence or word!")
         return None
     try:
-        tts = gTTS(get_txt)
+        tts = gTTS(get_txt, timeout=3)
         tts.save(".\\never_save.mp3")
         playsound(".\\never_save.mp3")
         remove(".\\never_save.mp3")

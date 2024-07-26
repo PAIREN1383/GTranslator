@@ -8,8 +8,7 @@ Attributes:
  2.  Fast text translation anywhere on the computer where the text can be copied.
  3.  Fast translation with Ctrl+C hotkey.
  4.  Audio pronunciation of words and text online and offline.
- 5.  Very low volume of the program, both in the form of Python and exe files.  The exe file is about 13 MB in size.
-
+ 5.  Very low volume of the program, both in the form of Python and exe files.
 
 Note: The program requires internet.
 
@@ -24,7 +23,7 @@ Note: The program requires internet.
 2. ترجمه‌ی سریع متن در هر کجای کامپیوتر که قابلیت کپی شدن متن وجود داشته باشد.
 3. ترجمه سریع با کلید میانبر Ctrl+C.
 4. تلفظ صوتی کلمات و متن به صورت آنلاین و آفلاین.
-6. حجم بسیار پایین برنامه چه به صورت فایل پایتونی و چه exe. فایل exe حدوداً 13 مگابایت حجم دارد.
+6. حجم بسیار پایین برنامه چه به صورت فایل پایتونی و چه exe.
 
 
 توجه: برنامه نیاز به اینترنت دارد.
